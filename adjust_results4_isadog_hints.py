@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# */AIPND-revision/intropyproject-classify-pet-images/adjust_results4_isadog.py
+# */AIPND-revision/intropyproject-classify-pet-images/adjust_results4_isadog_hints.py
 #                                                                             
 # PROGRAMMER:Vinay
 # DATE CREATED: 10.11.2023                                 
